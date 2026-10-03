@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoSnap-Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1414d857212c4d332455d0d9b7a4f7a61d3636cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1af04d749de4ea3523f089b18e90c90190963b9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoSnap-Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoSnap-Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
