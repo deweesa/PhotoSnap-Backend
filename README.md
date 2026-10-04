@@ -28,7 +28,7 @@
 ## Contact
 
 <!-- TODO: Include icons and links to your RELEVANT, PROFESSIONAL 'DEV-ORIENTED' social media. LinkedIn and dev.to are minimum. -->
-[LinkedIn](www.linkedin.com/in/asa-deweese/)
+[LinkedIn](http://www.linkedin.com/in/asa-deweese/)
 
 ## Acknowledgements
 
