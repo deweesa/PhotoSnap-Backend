@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoSnap.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7461e1f1fca0cd95a737a7a7e241c4da905100fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d4e9b20d1e8e264c2889f21ecb65077193ffed3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoSnap.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoSnap.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

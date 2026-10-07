@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PhotSnap.Users/1.0.0": {
+        "runtime": {
+          "PhotSnap.Users.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhotSnap.Users/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

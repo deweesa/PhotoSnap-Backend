@@ -1,0 +1,12 @@
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/bin/Debug/net10.0/PhotSnap.Users.deps.json
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/bin/Debug/net10.0/PhotSnap.Users.dll
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/bin/Debug/net10.0/PhotSnap.Users.pdb
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/obj/Debug/net10.0/PhotSnap.Users.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/obj/Debug/net10.0/PhotSnap.Users.AssemblyInfoInputs.cache
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/obj/Debug/net10.0/PhotSnap.Users.AssemblyInfo.cs
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/obj/Debug/net10.0/PhotSnap.Users.csproj.CoreCompileInputs.cache
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/obj/Debug/net10.0/PhotSnap.Users.sourcelink.json
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/obj/Debug/net10.0/PhotSnap.Users.dll
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/obj/Debug/net10.0/refint/PhotSnap.Users.dll
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/obj/Debug/net10.0/PhotSnap.Users.pdb
+/Users/deweesa/Documents/Code/PhotoSnap-Backend/src/PhotSnap.Users/obj/Debug/net10.0/ref/PhotSnap.Users.dll
