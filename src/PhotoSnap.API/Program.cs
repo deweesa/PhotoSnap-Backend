@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using PhotoSnap.API.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -5,6 +8,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddOpenApi();
 
 builder.Services.AddControllers();
+
+var connectionString = builder.Configuration.GetConnectionString("PostgreSQL")
+    ?? throw new InvalidOperationException(
+        "Connection string 'PostgreSQL' is not configured. Set it with dotnet user-secrets before starting the API.");
+
+builder.Services.AddDbContext<PhotoSnapDbContext>(options =>
+    options.UseNpgsql(connectionString));
 
 var app = builder.Build();
 

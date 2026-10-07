@@ -1,0 +1,2 @@
+- [x] Create Postgresql db
+- [ ] Create docker compose file to run solution

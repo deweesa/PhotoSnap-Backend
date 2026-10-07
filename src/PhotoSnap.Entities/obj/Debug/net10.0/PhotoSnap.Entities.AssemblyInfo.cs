@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoSnap.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8481a8ae9e12426a62323ee184fdf33f55b2edd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7461e1f1fca0cd95a737a7a7e241c4da905100fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoSnap.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoSnap.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

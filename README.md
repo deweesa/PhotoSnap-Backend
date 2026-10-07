@@ -19,7 +19,12 @@
 
 ### Built With
 
-<!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
+- [.NET 10](https://dotnet.microsoft.com/)
+- [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet)
+- [Entity Framework Core](https://learn.microsoft.com/ef/core/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Npgsql](https://www.npgsql.org/)
+- [Docker](https://www.docker.com/)
 
 ## Features
 
